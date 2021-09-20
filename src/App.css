@@ -1,5 +1,6 @@
 .App {
   padding: 16px;
+  font-size: large;
 }
 
 .c-black {
@@ -7,11 +8,11 @@
 }
 
 .c-red {
-  color: red;
+  color: #f80000;
 }
 
 .c-orange {
-  color: orange;
+  color: #ffb123;
 }
 
 .c-yellow {
@@ -19,7 +20,7 @@
 }
 
 .c-green {
-  color: green;
+  color: #00c500;
 }
 
 .c-aqua {
@@ -27,9 +28,13 @@
 }
 
 .c-blue {
-  color: blue;
+  color: #4040ff;
 }
 
 .c-purple {
-  color: purple;
+  color: #c910c9;
+}
+
+.c-white {
+  color: white;
 }
