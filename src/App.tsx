@@ -73,7 +73,7 @@ function App() {
           <code>{colorized}</code>
         </pre>
       ) : (
-        <p>Set JSON URL to URL hash of this page.</p>
+        <p>Set JSON URL to URL hash of this page and reload.</p>
       )}
       {err && <div>Error: {err.message}</div>}
     </div>
